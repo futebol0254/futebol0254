@@ -13,8 +13,8 @@ Este repositório serve como meu portfólio de projetos e exercícios do curso. 
 Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do curso:
 
 🔹 [Projeto 1](https://github.com/futebol0254/futebol0254) - Meu perfil
-<!-- 🔹 [Projeto 2](https://github.com/seu-usuario/projeto-2) - Breve descrição do projeto.
-🔹 [Projeto 3](https://github.com/seu-usuario/projeto-3) - Breve descrição do projeto. -->
+<!-- 🔹 [Projeto 2](https://github.com/futebol0254/projeto-2) - Breve descrição do projeto.
+🔹 [Projeto 3](https://github.com/futebol0254/projeto-3) - Breve descrição do projeto. -->
 
 ## 📖 O que estou aprendendo
 ✔️ Fundamentos do PHP e MySQL  
@@ -23,9 +23,9 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 ✔️ Desenvolvimento de aplicações dinâmicas  
 
 ## 📬 Contato
-📧 Email: [seuemail@email.com](mailto:seuemail@email.com)  
-🔗 GitHub: [github.com/futebol0254](https://github.com/futebol0254/) 
-🔗 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+📧 Email: [meuemail](mailto:carloseduardo93457523@email.com)  
+🔗 GitHub: [meu perfil](https://github.com/futebol0254/) 
+<!-- 🔗 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)   -->
 
 ---
 
