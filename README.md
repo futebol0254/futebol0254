@@ -24,7 +24,7 @@ Aqui estão alguns dos meus projetos e exercícios desenvolvidos ao longo do cur
 
 ## 📬 Contato
 📧 Email: [meuemail](mailto:carloseduardo93457523@email.com)  
-🔗 GitHub: [meu perfil](https://github.com/futebol0254/) 
+🔗 GitHub: [meu perfil](https://github.com/futebol0254) 
 <!-- 🔗 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)   -->
 
 ---
